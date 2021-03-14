@@ -28,5 +28,9 @@ This Code of Conduct is adapted from the following sources
 - the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
 - [Django Code of Conduct](https://www.djangoproject.com/conduct/)
 
-## Feedback
+## Contributing and Feedback
 If you have suggestions to improve this code of conduct, please [submit an issue](https://github.com/worldiaday/codeofconduct/issues).
+
+[Submit an issue](https://github.com/worldiaday/codeofconduct/issues) or contribute edits via pull requests to suggest changes to this documentation, as well as to our process. We welcome feedback of all kind, but remember to be respectful. If you would rather provide feedback privately, please do so by contacting us on safety@worldiaday.org.
+
+While contributing ideas and feedback, please keep in mind that this is still our internal documentation, so suggesting concepts that work well for other communities may not directly translate to our work.
